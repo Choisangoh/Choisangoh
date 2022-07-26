@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-# #백엔드 개발자 #최상오 입니다.
+# #꾸준함으로 성장하는 #백엔드 개발자 #최상오 입니다.
 <!--
 **Choisangoh/Choisangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
