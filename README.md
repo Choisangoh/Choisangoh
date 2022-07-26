@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-# #꾸준함으로 성장하는 #백엔드 개발자 #최상오 입니다.
+# #꾸준함으로 성장하는 백엔드 개발자 #최상오 입니다.
 https://alkaline-texture-80a.notion.site/069dd8bb76cd47bc8570b60e7d860547 (노션 포토폴리오)
 <!--
 **Choisangoh/Choisangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
