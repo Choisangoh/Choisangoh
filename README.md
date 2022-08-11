@@ -1,7 +1,13 @@
 ### 안녕하세요 👋
+2021.11.30 ~ 2022.06.30 : (빅데이터 전문가) 파이썬 & 웹기반 빅데이터 활용 전문 개발자 양성과정
+개발 블로그 : 어쩔코딩
+books STACKS
+       
+pencil2 STUDY
+ 
 
 # #꾸준함으로 성장하는 백엔드 개발자 #최상오 입니다.
-https://alkaline-texture-80a.notion.site/069dd8bb76cd47bc8570b60e7d860547 (노션 포토폴리오)
+https://alkaline-texture-80a.notion.site/069dd8bb76cd47bc8570b60e7d860547 (노션 포트폴리오)
 <!--
 **Choisangoh/Choisangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
